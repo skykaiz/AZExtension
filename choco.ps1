@@ -5,3 +5,6 @@ Set-ExecutionPolicy Bypass -Scope Process -Force; iex ((New-Object System.Net.We
 choco install googlechrome -y
 choco install microsoftazurestorageexplorer -y
 choco install skype -y
+choco install pycharm-community
+choco install git.install
+choco install nodejs
